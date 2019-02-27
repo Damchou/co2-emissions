@@ -1,4 +1,6 @@
-[Test it](https://codesandbox.io/s/8yor8oznk9)!
+## Test it
+
+You can test it [here](https://codesandbox.io/s/8yor8oznk9)! Keep in mind that some countries are missing in this test at CodeSandbox - data fetched is halved, so it would load properly.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
